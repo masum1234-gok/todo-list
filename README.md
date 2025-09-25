@@ -43,7 +43,7 @@
 
 **১. রিপোজিটরি ক্লোন করুন**  
 ```bash
-git clone https://github.com/masum1234-gok/todo-list.git
+git clone https://github.com/mir-md-masum-billah/todo-list.git
 cd todo-list
 ```
 
@@ -88,6 +88,6 @@ npm run preview
 ---
 
 ## 📬 যোগাযোগ
-- GitHub Repo: [masum1234-gok/todo-list](https://github.com/masum1234-gok/todo-list)
+- GitHub Repo: [mir-md-masum-billah/todo-list](https://github.com/mir-md-masum-billah/todo-list)
 
 ---
